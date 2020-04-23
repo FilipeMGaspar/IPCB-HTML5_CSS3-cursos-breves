@@ -20,4 +20,5 @@ ul#nav{
 }
 ul#nav li{
     float: left;
+    margin-right: 20px;
 }
