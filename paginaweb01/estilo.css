@@ -14,4 +14,6 @@ div#header h1{
 ul#nav{
     list-style: none;
     padding-left: 0px;
+    display: block;
+    float: left;
 }
