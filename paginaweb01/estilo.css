@@ -1,6 +1,7 @@
 body{
     background: url('imagens/fundo.png') repeat-x;
     font-family: Arial;
+    margin: 0px;
 }
 div#header{
     width: 800px;
@@ -27,4 +28,11 @@ ul#nav li{
 ul#nav a{
     text-decoration: none;
     color: #231f20;
+    padding-top: 8px;
+}
+ul#nav a:hover{
+    border-top: 3px solid #293a6b;
+}
+ul#nav a.ativa {
+    border-top: 3px solid #de3906;
 }
