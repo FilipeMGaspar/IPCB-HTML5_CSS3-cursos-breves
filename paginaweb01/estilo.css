@@ -4,6 +4,8 @@ body{
 div#header{
     width: 800px;
     height: 120px;
-    background: blueviolet;
     margin: 0px auto;
+}
+div#header h1{
+    margin-top: 30px;
 }
