@@ -1,5 +1,6 @@
 body{
     background: url('imagens/fundo.png') repeat-x;
+    font-family: Arial;
 }
 div#header{
     width: 800px;
@@ -21,4 +22,5 @@ ul#nav{
 ul#nav li{
     float: left;
     margin-right: 20px;
+    margin-top: 76px;
 }
