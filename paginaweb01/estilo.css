@@ -16,4 +16,8 @@ ul#nav{
     padding-left: 0px;
     display: block;
     float: left;
+    margin-left: 130px;
+}
+ul#nav li{
+    float: left;
 }
