@@ -22,7 +22,7 @@ ul#nav{
 }
 ul#nav li{
     float: left;
-    margin-right: 20px;
+    margin-right: 15px;
     margin-top: 76px;
 }
 ul#nav a{
@@ -39,5 +39,6 @@ ul#nav a.ativa {
 div#banner{
     width: 800px;
     height: 133px;
+    margin: 0px auto;
     
 }
