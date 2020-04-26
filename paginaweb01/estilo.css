@@ -36,3 +36,8 @@ ul#nav a:hover{
 ul#nav a.ativa {
     border-top: 3px solid #de3906;
 }
+div#banner{
+    width: 800px;
+    height: 133px;
+    
+}
