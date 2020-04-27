@@ -50,3 +50,7 @@ div#banner a{
 div#banner a img{
     border: none;   
 }
+div#section{
+    width: 800px;
+    margin: 0px auto;
+}
