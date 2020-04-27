@@ -74,3 +74,9 @@ div.article a{
 div.article p{
     color: #4d4d4d;
 }
+div#footer{
+    background-color: #293a6b;
+    color: white;
+    width: 800px;
+    margin: 0px auto;
+}
