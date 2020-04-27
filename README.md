@@ -1,2 +1,2 @@
-# IPCB-HTML5_CSS3-cursos-breves
+# IPCB-HTML_CSS-cursos-breves
   Desenvolvimento Web com HTML e CSS a partir de um Layout do Photoshop
