@@ -52,7 +52,7 @@ div#banner a img{
 }
 div#section{
     width: 800px;
-    margin: 0px auto;
+    margin: 25px auto;
 }
 div.article{
     width: 250px;
@@ -60,8 +60,14 @@ div.article{
     margin: 0px 8px;
 }
 div.article h1{
-    margin-top: 35px;
     font-size: 22px;
     font-weight: normal;
     text-transform: uppercase;
+}
+div.article a{
+    background-color: #35263f;
+    color: #ffffff;
+    font-size: 12px;
+    text-decoration: none;
+    padding: 5px 15px;
 }
