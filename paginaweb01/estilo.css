@@ -71,3 +71,6 @@ div.article a{
     text-decoration: none;
     padding: 5px 15px;
 }
+div.article p{
+    color: #4d4d4d;
+}
