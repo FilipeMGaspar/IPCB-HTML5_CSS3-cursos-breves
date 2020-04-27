@@ -52,5 +52,10 @@ div#banner a img{
 }
 div#section{
     width: 800px;
-    margin: 0px auto;
+    margin: 15px auto;
+}
+div.article{
+    width: 250px;
+    float: left;
+    margin: 0px 8px;
 }
